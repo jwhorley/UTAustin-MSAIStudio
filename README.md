@@ -2,6 +2,8 @@
 
 A new landing page for UT Austin's Master's of Artificial Intelligence Studio program pilot. This platform connects industry partners with graduate students for collaborative 8-week AI/ML projects.
 
+![Landing Page Preview](public/landing_page_Preview.png)
+
 ## Features
 
 - **Interactive Hero Section** with 3D Spline animation
